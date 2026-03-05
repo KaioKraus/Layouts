@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.blue{
+    padding: 80px;
+    background-color: blue;
+}
+
+.yo{
+    padding: 80px;
+    margin: 30px;
+    background-color: yellow;
+}
+
+.red{
+    padding-right: 300px;
+    background-color: red;
+}
+
+.green{
+    padding-bottom: 300px;
+    background-color: green;
+}
+
+.flex{
+    display: flex;
+}
