@@ -18,7 +18,7 @@ body{
 }
 
 .red{
-    padding-right: 270px;
+    padding-right: 300px;
     background-color: red;
 }
 
@@ -29,4 +29,12 @@ body{
 
 .flex{
     display: flex;
+}
+
+.esp{
+    padding: 80px;
+}
+
+.cir{
+    border-radius: 100%;
 }
